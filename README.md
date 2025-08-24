@@ -1,4 +1,4 @@
-# Hi, I'm Youssef Ibrahim 👋
+# yousef ibrahim | يوسف ابراهيم
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=<username>.<username>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin>/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<username>)
